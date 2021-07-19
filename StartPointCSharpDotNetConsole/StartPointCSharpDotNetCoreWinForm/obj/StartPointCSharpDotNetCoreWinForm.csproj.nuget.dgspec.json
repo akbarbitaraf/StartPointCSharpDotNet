@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "G:\\ProjectMyself\\StartPointCSharpDotNet\\StartPointCSharpDotNetConsole\\StartPointCSharpDotNetCoreWinForm\\StartPointCSharpDotNetCoreWinForm.csproj": {}
+    "D:\\SmartGit\\StartPointCSharpDotNet\\StartPointCSharpDotNetConsole\\StartPointCSharpDotNetCoreWinForm\\StartPointCSharpDotNetCoreWinForm.csproj": {}
   },
   "projects": {
-    "G:\\ProjectMyself\\StartPointCSharpDotNet\\StartPointCSharpDotNetConsole\\StartPointCSharpDotNetCoreWinForm\\StartPointCSharpDotNetCoreWinForm.csproj": {
+    "D:\\SmartGit\\StartPointCSharpDotNet\\StartPointCSharpDotNetConsole\\StartPointCSharpDotNetCoreWinForm\\StartPointCSharpDotNetCoreWinForm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\ProjectMyself\\StartPointCSharpDotNet\\StartPointCSharpDotNetConsole\\StartPointCSharpDotNetCoreWinForm\\StartPointCSharpDotNetCoreWinForm.csproj",
+        "projectUniqueName": "D:\\SmartGit\\StartPointCSharpDotNet\\StartPointCSharpDotNetConsole\\StartPointCSharpDotNetCoreWinForm\\StartPointCSharpDotNetCoreWinForm.csproj",
         "projectName": "StartPointCSharpDotNetCoreWinForm",
-        "projectPath": "G:\\ProjectMyself\\StartPointCSharpDotNet\\StartPointCSharpDotNetConsole\\StartPointCSharpDotNetCoreWinForm\\StartPointCSharpDotNetCoreWinForm.csproj",
-        "packagesPath": "C:\\Users\\Bitaraf.Eng\\.nuget\\packages\\",
-        "outputPath": "G:\\ProjectMyself\\StartPointCSharpDotNet\\StartPointCSharpDotNetConsole\\StartPointCSharpDotNetCoreWinForm\\obj\\",
+        "projectPath": "D:\\SmartGit\\StartPointCSharpDotNet\\StartPointCSharpDotNetConsole\\StartPointCSharpDotNetCoreWinForm\\StartPointCSharpDotNetCoreWinForm.csproj",
+        "packagesPath": "C:\\Users\\Farokhi\\.nuget\\packages\\",
+        "outputPath": "D:\\SmartGit\\StartPointCSharpDotNet\\StartPointCSharpDotNetConsole\\StartPointCSharpDotNetCoreWinForm\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Bitaraf.Eng\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Farokhi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -62,7 +62,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
