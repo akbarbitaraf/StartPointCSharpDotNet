@@ -1,0 +1,13 @@
+G:\ProjectMyself\StartPointCSharpDotNet\StartPointCSharpDotNetConsole\Session01.Before\bin\Debug\netcoreapp3.1\Session01.Before.exe
+G:\ProjectMyself\StartPointCSharpDotNet\StartPointCSharpDotNetConsole\Session01.Before\bin\Debug\netcoreapp3.1\Session01.Before.deps.json
+G:\ProjectMyself\StartPointCSharpDotNet\StartPointCSharpDotNetConsole\Session01.Before\bin\Debug\netcoreapp3.1\Session01.Before.runtimeconfig.json
+G:\ProjectMyself\StartPointCSharpDotNet\StartPointCSharpDotNetConsole\Session01.Before\bin\Debug\netcoreapp3.1\Session01.Before.runtimeconfig.dev.json
+G:\ProjectMyself\StartPointCSharpDotNet\StartPointCSharpDotNetConsole\Session01.Before\bin\Debug\netcoreapp3.1\Session01.Before.dll
+G:\ProjectMyself\StartPointCSharpDotNet\StartPointCSharpDotNetConsole\Session01.Before\bin\Debug\netcoreapp3.1\Session01.Before.pdb
+G:\ProjectMyself\StartPointCSharpDotNet\StartPointCSharpDotNetConsole\Session01.Before\obj\Debug\netcoreapp3.1\Session01.Before.csprojAssemblyReference.cache
+G:\ProjectMyself\StartPointCSharpDotNet\StartPointCSharpDotNetConsole\Session01.Before\obj\Debug\netcoreapp3.1\Session01.Before.AssemblyInfoInputs.cache
+G:\ProjectMyself\StartPointCSharpDotNet\StartPointCSharpDotNetConsole\Session01.Before\obj\Debug\netcoreapp3.1\Session01.Before.AssemblyInfo.cs
+G:\ProjectMyself\StartPointCSharpDotNet\StartPointCSharpDotNetConsole\Session01.Before\obj\Debug\netcoreapp3.1\Session01.Before.csproj.CoreCompileInputs.cache
+G:\ProjectMyself\StartPointCSharpDotNet\StartPointCSharpDotNetConsole\Session01.Before\obj\Debug\netcoreapp3.1\Session01.Before.dll
+G:\ProjectMyself\StartPointCSharpDotNet\StartPointCSharpDotNetConsole\Session01.Before\obj\Debug\netcoreapp3.1\Session01.Before.pdb
+G:\ProjectMyself\StartPointCSharpDotNet\StartPointCSharpDotNetConsole\Session01.Before\obj\Debug\netcoreapp3.1\Session01.Before.genruntimeconfig.cache

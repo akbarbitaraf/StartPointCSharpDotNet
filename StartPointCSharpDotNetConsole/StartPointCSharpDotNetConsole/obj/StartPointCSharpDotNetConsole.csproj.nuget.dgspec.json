@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SmartGit\\StartPointCSharpDotNet\\StartPointCSharpDotNetConsole\\StartPointCSharpDotNetConsole\\StartPointCSharpDotNetConsole.csproj": {}
+    "G:\\ProjectMyself\\StartPointCSharpDotNet\\StartPointCSharpDotNetConsole\\StartPointCSharpDotNetConsole\\StartPointCSharpDotNetConsole.csproj": {}
   },
   "projects": {
-    "D:\\SmartGit\\StartPointCSharpDotNet\\StartPointCSharpDotNetConsole\\StartPointCSharpDotNetConsole\\StartPointCSharpDotNetConsole.csproj": {
+    "G:\\ProjectMyself\\StartPointCSharpDotNet\\StartPointCSharpDotNetConsole\\StartPointCSharpDotNetConsole\\StartPointCSharpDotNetConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SmartGit\\StartPointCSharpDotNet\\StartPointCSharpDotNetConsole\\StartPointCSharpDotNetConsole\\StartPointCSharpDotNetConsole.csproj",
+        "projectUniqueName": "G:\\ProjectMyself\\StartPointCSharpDotNet\\StartPointCSharpDotNetConsole\\StartPointCSharpDotNetConsole\\StartPointCSharpDotNetConsole.csproj",
         "projectName": "StartPointCSharpDotNetConsole",
-        "projectPath": "D:\\SmartGit\\StartPointCSharpDotNet\\StartPointCSharpDotNetConsole\\StartPointCSharpDotNetConsole\\StartPointCSharpDotNetConsole.csproj",
-        "packagesPath": "C:\\Users\\Farokhi\\.nuget\\packages\\",
-        "outputPath": "D:\\SmartGit\\StartPointCSharpDotNet\\StartPointCSharpDotNetConsole\\StartPointCSharpDotNetConsole\\obj\\",
+        "projectPath": "G:\\ProjectMyself\\StartPointCSharpDotNet\\StartPointCSharpDotNetConsole\\StartPointCSharpDotNetConsole\\StartPointCSharpDotNetConsole.csproj",
+        "packagesPath": "C:\\Users\\Bitaraf.Eng\\.nuget\\packages\\",
+        "outputPath": "G:\\ProjectMyself\\StartPointCSharpDotNet\\StartPointCSharpDotNetConsole\\StartPointCSharpDotNetConsole\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Farokhi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Bitaraf.Eng\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,13 @@
+G:\ProjectMyself\StartPointCSharpDotNet\StartPointCSharpDotNetConsole\NutShellEight\bin\Debug\netcoreapp3.1\NutShellEight.exe
+G:\ProjectMyself\StartPointCSharpDotNet\StartPointCSharpDotNetConsole\NutShellEight\bin\Debug\netcoreapp3.1\NutShellEight.deps.json
+G:\ProjectMyself\StartPointCSharpDotNet\StartPointCSharpDotNetConsole\NutShellEight\bin\Debug\netcoreapp3.1\NutShellEight.runtimeconfig.json
+G:\ProjectMyself\StartPointCSharpDotNet\StartPointCSharpDotNetConsole\NutShellEight\bin\Debug\netcoreapp3.1\NutShellEight.runtimeconfig.dev.json
+G:\ProjectMyself\StartPointCSharpDotNet\StartPointCSharpDotNetConsole\NutShellEight\bin\Debug\netcoreapp3.1\NutShellEight.dll
+G:\ProjectMyself\StartPointCSharpDotNet\StartPointCSharpDotNetConsole\NutShellEight\bin\Debug\netcoreapp3.1\NutShellEight.pdb
+G:\ProjectMyself\StartPointCSharpDotNet\StartPointCSharpDotNetConsole\NutShellEight\obj\Debug\netcoreapp3.1\NutShellEight.csprojAssemblyReference.cache
+G:\ProjectMyself\StartPointCSharpDotNet\StartPointCSharpDotNetConsole\NutShellEight\obj\Debug\netcoreapp3.1\NutShellEight.AssemblyInfoInputs.cache
+G:\ProjectMyself\StartPointCSharpDotNet\StartPointCSharpDotNetConsole\NutShellEight\obj\Debug\netcoreapp3.1\NutShellEight.AssemblyInfo.cs
+G:\ProjectMyself\StartPointCSharpDotNet\StartPointCSharpDotNetConsole\NutShellEight\obj\Debug\netcoreapp3.1\NutShellEight.csproj.CoreCompileInputs.cache
+G:\ProjectMyself\StartPointCSharpDotNet\StartPointCSharpDotNetConsole\NutShellEight\obj\Debug\netcoreapp3.1\NutShellEight.dll
+G:\ProjectMyself\StartPointCSharpDotNet\StartPointCSharpDotNetConsole\NutShellEight\obj\Debug\netcoreapp3.1\NutShellEight.pdb
+G:\ProjectMyself\StartPointCSharpDotNet\StartPointCSharpDotNetConsole\NutShellEight\obj\Debug\netcoreapp3.1\NutShellEight.genruntimeconfig.cache
