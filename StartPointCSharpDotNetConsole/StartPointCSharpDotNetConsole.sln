@@ -3,13 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StartPointCSharpDotNetConsole", "StartPointCSharpDotNetConsole\StartPointCSharpDotNetConsole.csproj", "{CC14EB6E-D668-4DC6-9F2D-6CF4F63F8BEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StartPointCSharpDotNetConsole", "StartPointCSharpDotNetConsole\StartPointCSharpDotNetConsole.csproj", "{CC14EB6E-D668-4DC6-9F2D-6CF4F63F8BEE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StartPointCSharpDotNetWS", "StartPointCSharpDotNetWS\StartPointCSharpDotNetWS.csproj", "{6E7F7D80-BAF4-47CC-9E38-7E3CC82456C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StartPointCSharpDotNetCoreWinForm", "StartPointCSharpDotNetCoreWinForm\StartPointCSharpDotNetCoreWinForm.csproj", "{A75E8169-0BA1-443B-AF3F-BB07F5907638}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StartPointCSharpDotNetCoreWinForm", "StartPointCSharpDotNetCoreWinForm\StartPointCSharpDotNetCoreWinForm.csproj", "{A75E8169-0BA1-443B-AF3F-BB07F5907638}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StartPointCSharpDotNetWinForm", "StartPointCSharpDotNetWinForm\StartPointCSharpDotNetWinForm.csproj", "{FF536591-69C3-4341-A3F0-6EFCC835FF3D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Session01.Before", "Session01.Before\Session01.Before.csproj", "{14114395-0DA2-436C-9A68-6E60AA5D7845}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeginingLinq", "BeginingLinq\BeginingLinq.csproj", "{6885FC44-9D27-4945-9EEA-098C364DFB6C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NutShellEight", "NutShellEight\NutShellEight.csproj", "{F8D567B1-70D6-4400-B4C6-50FE74231825}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NutShellChapFour", "NutShellChapFour\NutShellChapFour.csproj", "{B42B858D-360E-43FF-8A1D-1D6BD51EDF5C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +41,22 @@ Global
 		{FF536591-69C3-4341-A3F0-6EFCC835FF3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF536591-69C3-4341-A3F0-6EFCC835FF3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF536591-69C3-4341-A3F0-6EFCC835FF3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14114395-0DA2-436C-9A68-6E60AA5D7845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14114395-0DA2-436C-9A68-6E60AA5D7845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14114395-0DA2-436C-9A68-6E60AA5D7845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14114395-0DA2-436C-9A68-6E60AA5D7845}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6885FC44-9D27-4945-9EEA-098C364DFB6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6885FC44-9D27-4945-9EEA-098C364DFB6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6885FC44-9D27-4945-9EEA-098C364DFB6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6885FC44-9D27-4945-9EEA-098C364DFB6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8D567B1-70D6-4400-B4C6-50FE74231825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8D567B1-70D6-4400-B4C6-50FE74231825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8D567B1-70D6-4400-B4C6-50FE74231825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8D567B1-70D6-4400-B4C6-50FE74231825}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B42B858D-360E-43FF-8A1D-1D6BD51EDF5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B42B858D-360E-43FF-8A1D-1D6BD51EDF5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B42B858D-360E-43FF-8A1D-1D6BD51EDF5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B42B858D-360E-43FF-8A1D-1D6BD51EDF5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

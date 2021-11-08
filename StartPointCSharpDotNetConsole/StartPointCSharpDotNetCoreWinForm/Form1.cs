@@ -15,7 +15,12 @@ namespace StartPointCSharpDotNetCoreWinForm
         public Form1()
         {
             InitializeComponent();
+            this.toolTip.SetToolTip(this.button1 , "fkgfd.gmfd.gmfdg.,fgmfd.g");
         }
 
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
